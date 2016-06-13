@@ -16,9 +16,11 @@ properly with costs, and to make matters worse, all seemed to take up way to muc
 could not fit those into my cramped cave.
 
 ## Primary design points
-- When build volume increases, you want the build platform to be static. 
-- A static build platform could also be the base for the machine. A disused kitchen tabletop would fit; its 
-structurally strong, its heat resistant, and to some point isolating
+- When build volume increases, you want the build platform to be static. Accellerating a huge platform back 
+and forth is neither good for the object you are printing nor the machine itself. Oscillations will occur and
+the machine will shake apart.
+- A static build platform could also be the base for the machine. A disused kitchen tabletop would fit the
+purpose; its structurally strong, its heat resistant, and to some point isolating.
 - It has to sit on my desk, so it cannot be supported on the front side, or be enclosed like a Makerbot, a 
 Ultimaker or a CNC machine.
 - With increasing dimensions, the down-bending of the structural parts has to be considered. So first option 
@@ -30,8 +32,9 @@ Bauhaus.dk and Silvan.dk. I sourced M3 screws/washers/nuts, and electronics from
 
 
 ## Secondary design points
-Taking inspiration with Manolo's Tuga <put link here> I developed some novel solutions of my own.
-- Instead of a Scott-Russel linkage i decided to implement a parallelogram. This would eliminate any torque induced by the hotend cooling fan.
+Taking inspiration with Manolo's Tuga <put link here> I developed some novel solutions of my own. Basically, the machine 
+is a hybrid of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
+- Instead of a Scott-Russel linkage i decided to implement a parallelogram. This would eliminate any torque induced by the hotend cooling fan. 
 - Two carriages share one rail. The stepper motors and drive belts fit easily on the same rail. It just a design challenge to make non-mirrored parts.
 - The Z-axis is a regular cartesian rail with stepper motors and a M5 leadscrew. I printed the bushing in nylon and tapped it manually, hoping that it would be a low friction solution. Later I might change this to a TR8x2 trapez leadscrew. I just have to by a TR8x2 TAP from Ebay.
 
