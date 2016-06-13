@@ -32,10 +32,17 @@ Bauhaus.dk and Silvan.dk. I sourced M3 screws/washers/nuts, and electronics from
 
 
 ## Secondary design points
-Taking inspiration with Manolo's Tuga <put link here> I developed some novel solutions of my own. Basically, the machine 
-is a hybrid of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
-- Instead of a Scott-Russel linkage i decided to implement a parallelogram. This would eliminate any torque induced by the hotend cooling fan. 
-- Two carriages share one rail. The stepper motors and drive belts fit easily on the same rail. It just a design challenge to make non-mirrored parts.
-- The Z-axis is a regular cartesian rail with stepper motors and a M5 leadscrew. I printed the bushing in nylon and tapped it manually, hoping that it would be a low friction solution. Later I might change this to a TR8x2 trapez leadscrew. I just have to by a TR8x2 TAP from Ebay.
-
+Taking inspiration with Manolo's Tuga <put link here> I developed some novel solutions of my own. Basically, 
+the machine is a hybrid of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
+- Instead of a Scott-Russel linkage i decided to implement a parallelogram. This would eliminate any torque 
+induced by the hotend cooling fan. 
+- Two carriages share one rail. The stepper motors and drive belts fit easily on the same rail. It just a 
+design challenge to make non-mirrored parts.
+- The Z-axis is a regular cartesian rail with stepper motors and a M5 leadscrew. I printed the bushing in 
+nylon and tapped it manually, hoping that it would be a low friction solution. Later I might change this to 
+a TR8x2 trapez leadscrew. I just have to by a TR8x2 TAP from Ebay.
+- The parallellogram construction might also be a problem: the effector and hotend assembly induces torque on 
+the X-rail. So the z-axis might be lower at one Y-position than another. 
+- The max print speed is as usual determined by the heater. And print quality is determined by the vibrations
+dependent on the accelleration and stiffness of the machine.
 
