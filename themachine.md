@@ -17,10 +17,17 @@ could not fit those into my cramped cave.
 
 ## Primary design points
 - When build volume increases, you want the build platform to be static. 
-- A static build platform could also be the base for the machine. A disused kitchen tabletop would fit; its structurally strong, its heat resistant, and to some point isolating
-- It has to sit on my desk, so it cannot be supported on the front side, or be enclosed like a makerbot, a ultimaker or a CNC machine.
-- With increasing dimensions, the down-bending of the structural parts has to be considered. So first option was to use a hollow 2020 aluminium tube. 
-- A square tube is more stiff than a cylidrical of same cross section, and a hollow tube weighs less than a V-slot beam.
+- A static build platform could also be the base for the machine. A disused kitchen tabletop would fit; its 
+structurally strong, its heat resistant, and to some point isolating
+- It has to sit on my desk, so it cannot be supported on the front side, or be enclosed like a Makerbot, a 
+Ultimaker or a CNC machine.
+- With increasing dimensions, the down-bending of the structural parts has to be considered. So first option 
+was to use a hollow 2020 aluminium tube. A square tube is more stiff than a cylidrical of same cross section, 
+and a hollow tube weighs less than a V-slot beam.
+- All structural parts should be source-able from the local home depot. I bought tubing, and M5 leadscrews from 
+Bauhaus.dk and Silvan.dk. I sourced M3 screws/washers/nuts, and electronics from various webshops.
+- Controller, stepper motors and hotend from various 3D printer webshops. 
+
 
 ## Secondary design points
 Taking inspiration with Manolo's Tuga <put link here> I developed some novel solutions of my own.
