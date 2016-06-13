@@ -13,7 +13,7 @@ The z-axis is a regular cartesian rail.
 ## The Name
 The effector arms and sliders may look like a Geometridae larvae (yeah, some wicked imagination required...)
 If I have any spare time, I will implement a short feature to show the Geometridae larvae locomotion. And to
-keep up with inventive printer names, I decided to name my //variant of the INCHWORM machine// Jonstrup;
+keep up with inventive printer names, I decided to name my _variant of the INCHWORM machine_ Jonstrup;
 a local town which is pronouncable in English without any tweaking.
 
 ## Development Only
