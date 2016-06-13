@@ -9,16 +9,24 @@ I discovered the 3D printing and associated Maker hype around 2010. For more tha
 my computer, and gobbled up loads of youtube videos, and trawel endless seas of webpages. In 2012 I finally 
 found the funds (outside the household budget) for procuring a 3D printer: a RepRapPro Mendel (mono / legacy).
 Almost the coincidentally I started flying RC model aircraft. And the primary purpose for buying a printer was
-to print spare parts for the model aircraft __when__ they eventually crashed.
+to print spare parts for the model aircraft when they _eventually_ crashed.
 
 Later, I had the wish to print larger volumes, like aircraft wings, but the machines on the market did not scale
 properly with costs, and to make matters worse, all seemed to take up way to much tabletop real estate. I simply
 could not fit those into my cramped cave.
 
+> have you noticed how most designs scale almost equally on all three axis' ?
+
+So I wanted to build a machine that could print a long and narrow object. Build platform should have some ridiculous
+dimension on at least one axis: 2000mm (... and counting). (*)
+
+(*) Well, being limited by the length of my desk, the x axis is almost 1800mm. But during development the 
+the right-hand endstop is placed at 600mm.
+
 ## Primary design points
 - When build volume increases, you want the build platform to be static. Accellerating a huge platform back 
 and forth is neither good for the object you are printing nor the machine itself. Oscillations will occur and
-the machine will shake apart.
+shake the machine apart.
 - A static build platform could also be the base for the machine. A disused kitchen tabletop would fit the
 purpose; its structurally strong, its heat resistant, and to some point isolating.
 - It has to sit on my desk, so it cannot be supported on the front side, or be enclosed like a Makerbot, a 
@@ -32,17 +40,17 @@ Bauhaus.dk and Silvan.dk. I sourced M3 screws/washers/nuts, and electronics from
 
 
 ## Secondary design points
-Taking inspiration from the locomotion of a Geometer Inchworm (https://www.youtube.com/watch?v=ncx4o-W9R2c) 
+Taking inspiration from the [locomotion of a Geometer Inchworm](https://www.youtube.com/watch?v=ncx4o-W9R2c) 
 and the Kossel Delta printer I developed some novel solutions of my own. Basically, the machine is a hybrid 
 of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
-And almost at the same time I discovered Manolo's Tuga (http://www.openbuilds.com/builds/reprap-tuga.390/).
-- Instead of a Scott-Russel linkage i decided to implement a parallelogram. This would eliminate any torque 
-induced by the hotend cooling fan. 
+And almost at the same time I discovered [Paulo Gonçalves Tuga](http://www.openbuilds.com/builds/reprap-tuga.390/).
+- Instead of a Scott-Russel linkage i decided to implement a parallelogram. Any fans sitting at the effector hotend would induce some torque when the head rotates. It might not be much, but I intuitively liked this better. 
 - Two carriages share one rail. The stepper motors and drive belts fit easily on the same rail. It just a 
-design challenge to make non-mirrored parts.
+design challenge to make unique parts all over the place.
 - The Z-axis is a regular cartesian rail with stepper motors and a M5 leadscrew. I printed the bushing in 
 nylon and tapped it manually, hoping that it would be a low friction solution. Later I might change this to 
 a TR8x2 trapez leadscrew. I just have to by a TR8x2 TAP from Ebay.
+  - by the way: the Z-axis might be _any height_. Just buy two longer leadscrews and 2020 aluminium tubes.
 - The parallellogram construction might also be a problem: the effector and hotend assembly induces torque on 
 the X-rail. So the z-axis might be lower at one Y-position than another. 
 - The max print speed is as usual determined by the heater. And print quality is determined by the vibrations
