@@ -32,8 +32,10 @@ Bauhaus.dk and Silvan.dk. I sourced M3 screws/washers/nuts, and electronics from
 
 
 ## Secondary design points
-Taking inspiration with Manolo's Tuga <put link here> I developed some novel solutions of my own. Basically, 
-the machine is a hybrid of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
+Taking inspiration from the locomotion of a Geometer Inchworm (https://www.youtube.com/watch?v=ncx4o-W9R2c) 
+and the Kossel Delta printer I developed some novel solutions of my own. Basically, the machine is a hybrid 
+of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
+And almost at the same time I discovered Manolo's Tuga (http://www.openbuilds.com/builds/reprap-tuga.390/).
 - Instead of a Scott-Russel linkage i decided to implement a parallelogram. This would eliminate any torque 
 induced by the hotend cooling fan. 
 - Two carriages share one rail. The stepper motors and drive belts fit easily on the same rail. It just a 
@@ -45,4 +47,24 @@ a TR8x2 trapez leadscrew. I just have to by a TR8x2 TAP from Ebay.
 the X-rail. So the z-axis might be lower at one Y-position than another. 
 - The max print speed is as usual determined by the heater. And print quality is determined by the vibrations
 dependent on the accelleration and stiffness of the machine.
+- The cooling fan (in the E3D hotend) should blow the heat away from all plastic parts. Coincidentially, it 
+can also function as a structural part, holding the hotend to the effector arm. 
+
+
+
+
+## Kinematics 
+<describe the Inchworm kinematics>
+
+
+
+## Firmware development
+The kinematics calls for a open source firmware, where the math can easily be put in, without having to write
+all from scratch. I tried to work with Repetier and Marlin. The firmwares have pros and cons, but in the end I 
+settled on Marlin.  I have tried to make the changes as readable as possible. A fairly skilled programmer will
+be able to port the code.
+Either way ... my limited hobby-time presents a challenge in keeping up the primary Marlin Firmware development.
+I have restarted my efforts twice to introduce the INCHWORM functions without breaking compatibility with the DEV branch.
+
+
 
