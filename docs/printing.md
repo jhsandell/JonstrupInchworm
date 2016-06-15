@@ -6,12 +6,18 @@ many of each STL you need to print.
 Most parts are printed in PLA. Three parts are printed in Taulman 618 nylon. Nylon is chosen either as a lubricant-free 
 bushing on the z-axis or as the heat tolerant fan shroud on the E3D hotend. 
 
-## Brims or Rafts
-The large STL files have _manual brims_. The brims assures adhesion to the build plate. 
+## Alignment and Brims and No Support 
+The STL's shall be printed in the alignment shown in the pictures. This assures that critical dimensions are controlled by the same axis on all parts. In other words: do not rotate objects if holes or dimensions are supposed to be identical. _It will affect the INCHWORM's final precision_. 
 
-https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/print_adh001.png 
+The large objects have _manual brims_. The brims assures adhesion to the buildplate, without having to put an automatic 
+brim all the way around the objects edges. 
 
-https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/print_adh002.png
+![without a brim](https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/print_adh001.png) 
+
+![with a brim - manual or automatic](https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/print_adh002.png)
+
+The objects can be printed without support material. Angles of overhangs are only 30 degrees of vertical. Most
+holes require _bridges_ in one way or another. 
 
 ## STL parts list
 >under construction
