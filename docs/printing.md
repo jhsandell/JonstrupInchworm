@@ -17,7 +17,7 @@ https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/print_adh002.png
 >under construction
 
  | name | file | no. of copies |
- | --- | --- |
+ | --- | --- | --- |
  | effector | eff001.stl | 1 |
  | narrow arm | eff002.stl | 2 |
  | wide arm | eff003.stl | 1 |
