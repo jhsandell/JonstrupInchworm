@@ -43,15 +43,15 @@ holes require _bridges_ in one way or another.
     <td>Effector</td>
     <td>eff001.stl</td>
     <td>1</td>
-    <td rowspan="3">AAAA</td>
+    <td rowspan="3"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_eff_sli_001.png" width="200"></img></td>
   </tr>
   <tr>
-    <td>Narrow Arm</td>
+    <td>Slider Left</td>
     <td>eff002.stl</td>
-    <td>2</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td>Wide Arm</td>
+    <td>Slider Right</td>
     <td>eff003.stl</td>
     <td>1</td>
   </tr>
