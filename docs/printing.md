@@ -16,10 +16,10 @@ https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/print_adh002.png
 ## STL parts list
 >under construction
 
- | name | file | no. of copies |
- | --- | --- | --- |
- | effector | eff001.stl | 1 |
- | narrow arm | eff002.stl | 2 |
- | wide arm | eff003.stl | 1 |
- | grovemount | eff004.stl | 1 |
- | grovemount clamp | eff005.stl | 1 |
+|name|file|no. of copies|
+|---|---|---|
+|effector|eff001.stl|1|
+|narrow arm|eff002.stl|2|
+|wide arm|eff003.stl|1|
+|grovemount | eff004.stl | 1 |
+|grovemount clamp | eff005.stl | 1 |
