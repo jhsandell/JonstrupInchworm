@@ -29,3 +29,32 @@ holes require _bridges_ in one way or another.
 |wide arm|eff003.stl|1|
 |grovemount | eff004.stl | 1 |
 |grovemount clamp | eff005.stl | 1 |
+
+> another version that supports rowspan with illustrations
+
+<table>
+  <tr>
+    <th>Name</th>
+    <th>File</th>
+    <th>Copies</th>
+    <th>Pics</th>
+  </tr>
+  <tr>
+    <td>Effector</td>
+    <td>eff001.stl</td>
+    <td>1</td>
+    <td rowspan="3">AAAA</td>
+  </tr>
+  <tr>
+    <td>Narrow Arm</td>
+    <td>eff002.stl</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>Wide Arm</td>
+    <td>eff003.stl</td>
+    <td>1</td>
+  </tr>
+</table>
+
+
