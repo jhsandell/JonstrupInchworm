@@ -20,17 +20,6 @@ The objects can be printed without support material. Angles of overhangs are onl
 holes require _bridges_ in one way or another. 
 
 ## STL parts list
->under construction
-
-|name|file|no. of copies|
-|---|---|---|
-|effector|eff001.stl|1|
-|narrow arm|eff002.stl|2|
-|wide arm|eff003.stl|1|
-|grovemount | eff004.stl | 1 |
-|grovemount clamp | eff005.stl | 1 |
-
-> another version that supports rowspan with illustrations
 
 <table>
   <tr>
@@ -67,7 +56,7 @@ holes require _bridges_ in one way or another.
     <td>1</td>
   </tr>
   <tr>
-    <td>Fan shroud (for E3Dv6 hotend)</td>
+    <td><B>NYLON</B> Fan shroud (for E3Dv6 hotend)</td>
     <td>eff006.stl</td>
     <td>1</td>
   </tr>
@@ -90,18 +79,18 @@ holes require _bridges_ in one way or another.
   </tr>
   <tr>
     <td>Right X-axis motor mount</td>
-    <td>xmount001.stl</td>
+    <td>xmount002.stl</td>
     <td>1</td>
   </tr>
   <tr>
     <td>Belt shim</td>
-    <td>xmount001.stl</td>
+    <td>beltshim001.stl</td>
     <td>4</td>
     <td><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_belt_shim_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Cable clamp</td>
-    <td>xmount001.stl</td>
+    <td>clamp001.stl</td>
     <td>4</td>
     <td><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_cableclamp_001.png" width="200"></img></td>
   </tr>
