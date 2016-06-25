@@ -3,7 +3,7 @@
 ## This is the source repository for building a Jonstrup Inchworm 3d printer.
 Here you will find all CAD and STL files, as well as description of the kinematics and illustrations.
 
-Read about [the INCHWORM machine](https://github.com/jhsandell/JonstrupInchworm/blob/master/themachine.md).
+Read about [the INCHWORM machine](/themachine.md).
 
 The machine is basically a 2D delta printer for the XY plane, and the rails (*) "go in the wrong direction".
 The z-axis is a regular cartesian rail. 
@@ -17,7 +17,7 @@ If I have any spare time, I will implement a short feature to show the [Geometri
 name _my variant of the INCHWORM machine_ Jonstrup; a local town which is pronouncable in English without 
 any tweaking.
 
-<img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/a.mpg"></img>
+![animation1](https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/a.mpg)
 
 
 
