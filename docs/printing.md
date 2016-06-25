@@ -55,6 +55,35 @@ holes require _bridges_ in one way or another.
     <td>eff003.stl</td>
     <td>1</td>
   </tr>
+  <tr>
+    <td>Groove mount block</td>
+    <td>eff004.stl</td>
+    <td>1</td>
+    <td rowspan="3"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_eff_groovemount_fanshroud_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Groove mount clamp</td>
+    <td>eff005.stl</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Fan shroud (for E3Dv6 hotend)</td>
+    <td>eff006.stl</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Effector wide arm</td>
+    <td>eff007.stl</td>
+    <td>2</td>
+    <td rowspan="2"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_eff_arms.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Effector narrow arm</td>
+    <td>eff005.stl</td>
+    <td>1</td>
+  </tr>
+  
+  
 </table>
 
 
