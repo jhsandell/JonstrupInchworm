@@ -74,7 +74,7 @@ holes require _bridges_ in one way or another.
   <tr>
     <td>Left X-axis motor mount</td>
     <td>xmount001.stl</td>
-    <td>2</td>
+    <td>1</td>
     <td rowspan="2"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_xaxis_motor_001.png" width="200"></img></td>
   </tr>
   <tr>
