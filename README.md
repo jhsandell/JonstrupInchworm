@@ -17,7 +17,7 @@ If I have any spare time, I will implement a short feature to show the [Geometri
 name _my variant of the INCHWORM machine_ Jonstrup; a local town which is pronouncable in English without 
 any tweaking.
 
-![animation1](https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/a.mpg)
+![animation1](/pics/a.gif)
 
 
 
