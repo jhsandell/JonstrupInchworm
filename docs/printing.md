@@ -79,11 +79,63 @@ holes require _bridges_ in one way or another.
   </tr>
   <tr>
     <td>Effector narrow arm</td>
-    <td>eff005.stl</td>
+    <td>eff008.stl</td>
     <td>1</td>
   </tr>
-  
-  
+  <tr>
+    <td>Left X-axis motor mount</td>
+    <td>xmount001.stl</td>
+    <td>2</td>
+    <td rowspan="2"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_xaxis_motor_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Right X-axis motor mount</td>
+    <td>xmount001.stl</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>Belt shim</td>
+    <td>xmount001.stl</td>
+    <td>4</td>
+    <td><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_belt_shim_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Cable clamp</td>
+    <td>xmount001.stl</td>
+    <td>4</td>
+    <td><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_cableclamp_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td><B>NYLON</B> z-axis bushings</td>
+    <td>zbushings001.stl</td>
+    <td>1 set</td>
+    <td><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_nylon_zaxis_bushing_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Z-axis 2020 foot</td>
+    <td>foot001.stl</td>
+    <td>2</td>
+    <td rowspan="2"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_foot_supp_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Z-axis support foot</td>
+    <td>foot002.stl</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>Z-axis left motor mount</td>
+    <td>foot003.stl</td>
+    <td>1</td>
+    <td rowspan="2"><img src="https://github.com/jhsandell/JonstrupInchworm/blob/master/pics/stl_zaxis_motor_001.png" width="200"></img></td>
+  </tr>
+  <tr>
+    <td>Z-axis right motor mount</td>
+    <td>foot004.stl</td>
+    <td>1</td>
+  </tr>
+
+
+
 </table>
 
 
