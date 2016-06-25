@@ -11,16 +11,12 @@ The z-axis is a regular cartesian rail.
 (*) There is only one rail.
 
 ## The Name
-The effector arms and sliders may look like a Geometridae larvae (yeah, some wicked imagination required...
-see below.)
-If I have any spare time, I will implement a short feature to show the [Geometridae larvae locomotion]
-(https://www.youtube.com/watch?v=ncx4o-W9R2c). And to keep up with inventive printer names, I decided to 
-name my variant of the INCHWORM machine _Jonstrup_; a local town which is pronounceable in English without 
-any tweaking.
+The effector, arms and sliders may look like a Geometridae larvae moving along the x-axis. 
+Compare it to the [Geometridae larvae locomotion](https://www.youtube.com/watch?v=ncx4o-W9R2c). 
+And to keep up with inventive printer names, I decided to name my variant of the INCHWORM machine 
+_Jonstrup_; a local town, which is pronounceable in English.
 
 <img src="/pics/a.gif" width="50%"></img>
-
-
 
 ## Development Only
 
@@ -36,4 +32,11 @@ The firmware is in the [Marlin_Inchworm repository](https://github.com/jhsandell
 <Jens Henrik Sandell>
 
 ## License
-<tbd>
+Copyright 2016 Jens Henrik Sandell, all rights reserved for the Jonstrup Inchworm hardware design.
+
+Marlin Firmware License is governed by the projects license statement. All additions or modifications 
+made to the firmware under the _Inchworm Fork of MarlinDev_, is subject to the Marlin Firmware License 
+Statement.
+
+> I intend to release the Jonstrup Inchworm hardware design as open source.
+> Give me some time to read up on the GNU GPL... 
