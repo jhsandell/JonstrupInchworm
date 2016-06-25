@@ -34,7 +34,9 @@ The firmware is in the [Marlin_Inchworm repository](https://github.com/jhsandell
 ## License
 Copyright 2016 Jens Henrik Sandell, all rights reserved for the Jonstrup Inchworm hardware design.
 
-Marlin Firmware License is governed by [the projects license statement](https://github.com/MarlinFirmware/Marlin/blob/RC/README.md). All additions or modifications made to the firmware under the _Inchworm Fork of MarlinDev_, is subject to the Marlin Firmware License 
+Marlin Firmware License is governed by [the projects license statement](https://github.com/MarlinFirmware/Marlin/blob/RC/README.md#license). 
+All additions or modifications made to the firmware under the _Inchworm Fork of MarlinDev_, is 
+subject to the Marlin Firmware License 
 Statement.
 
 > I intend to release the Jonstrup Inchworm hardware design as open source.
