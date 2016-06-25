@@ -45,16 +45,18 @@ and the Kossel Delta printer I developed some novel solutions. Basically, the ma
 of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
 And almost at the same time I discovered [Paulo Gonçalves Tuga](http://www.openbuilds.com/builds/reprap-tuga.390/).
 - Instead of a Scott-Russel linkage i decided to implement a parallelogram. Any fans sitting at the effector 
-hotend would induce some torque when the head rotates. It might not be much, but I intuitively liked this better. 
+hotend would induce some gyro torque when the head rotates. It might not be much, but I intuitively liked this better. 
 - Two carriages share one rail. The stepper motors and drive belts fit easily side-by-side on the same rail. It just a 
-design challenge to make unique parts all over the place.
+design challenge to make unique parts all over the place. The carriages fit the square tube tightly and slides without 
+any bushings, and without lubrication.
 - The Z-axis is a regular cartesian rail with stepper motors and a M5 leadscrew. I printed the bushing in 
 nylon and tapped it manually, hoping that it would be a low friction solution. Later I might change this to 
 a TR8x2 trapez leadscrew. I just have to by a TR8x2 TAP from Ebay.
   - by the way: the Z-axis might be _any height_. Just buy two longer leadscrews and 2020 aluminium tubes.
 - The parallellogram construction might also be a problem: the effector and hotend assembly induces torque on 
-the X-rail. So the z-axis might be lower at one Y-position than another. 
-- The max print speed is as usual determined by the heater. And print quality is determined by the vibrations
+the X-rail. So the z-position might vary depending on Y-position. 
+- The max print speed is as usual determined by the heaters ability to melt the plastic, as well as the 
+steps-per-second rate of the controller . And print quality is determined by the vibrations
 dependent on the accelleration and stiffness of the machine.
 - The cooling fan (in the E3D hotend) should blow the heat away from all plastic parts. At the same time it 
 can also function as a structural part, holding the hotend to the effector arm. 
