@@ -38,50 +38,50 @@ The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Deci
   </tr>
   <tr>
     <td>Slider Left</td>
-    <td>eff002.stl</td>
+    <td><a href="/stl/eff002.stl">eff002.stl</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td>Slider Right</td>
-    <td>eff003.stl</td>
+    <td><a href="/stl/eff003.stl">eff003.stl</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td>Groove mount block</td>
-    <td>eff004.stl</td>
+    <td><a href="/stl/eff004.stl">eff004.stl</a></td>
     <td>1</td>
     <td rowspan="3"><img src="/pics/stl_eff_groovemount_fanshroud_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Groove mount clamp</td>
-    <td>eff005.stl</td>
+    <td><a href="/stl/eff005.stl">eff005.stl</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td><B>NYLON</B> Fan shroud (for E3Dv6 hotend)</td>
-    <td>eff006.stl</td>
+    <td><a href="/stl/eff006.stl">eff006.stl</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td>Effector wide arm</td>
-    <td>eff007.stl</td>
+    <td><a href="/stl/eff007.stl">eff007.stl</a></td>
     <td>2</td>
     <td rowspan="2"><img src="/pics/stl_eff_arms.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Effector narrow arm</td>
-    <td>eff008.stl</td>
+    <td><a href="/stl/eff008.stl">eff008.stl</a></td>
     <td>1</td>
   </tr>
   <tr>
     <td>Left X-axis motor mount</td>
-    <td>xmount001.stl</td>
+    <td><a href="/stl/xmount001.stl">xmount001.stl</a></td>
     <td>1</td>
     <td rowspan="2"><img src="/pics/stl_xaxis_motor_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Right X-axis motor mount</td>
-    <td>xmount002.stl</td>
+    <td><a href="/stl/xmount002.stl">xmount002.stl</a></td>
     <td>1</td>
   </tr>
   <tr>
