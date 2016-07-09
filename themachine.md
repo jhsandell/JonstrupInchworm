@@ -64,8 +64,8 @@ can also function as a structural part, holding the hotend to the effector arm.
 # Proof of Concept
 The idea just popped into my mind... And it might be a heritage of having played a lot with LEGO Technic as a kid.
 So I sat down and printed a POC, using some smooth rods from an scrapped inkjet printer.
-<img src="/pics/poc001.png" width="50%"></img>
-<img src="/pics/poc002.png" width="50%"></img>
+<img src="/pics/poc001.png" width="49%"></img>
+<img src="/pics/poc002.png" width="49%"></img>
 
 
 Please observe: The effector was printed lying down, while the two sliders were standing up (to allow printing the holes for the rails.) The XY plane and the Z-axis on my printer has bad calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. (it may also be due to the _hot plastic_ sagging during printing, when it is not completely solidified). 
