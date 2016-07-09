@@ -40,10 +40,10 @@ Bauhaus.dk and Silvan.dk. I sourced M3 screws/washers/nuts, and electronics from
 
 
 ## Secondary design points
-Taking inspiration from the [locomotion of a Geometer Inchworm](https://www.youtube.com/watch?v=ncx4o-W9R2c) 
+Taking inspiration from the [locomotion of a Geometer Inchworm (Youtube)](https://www.youtube.com/watch?v=ncx4o-W9R2c) 
 and the Kossel Delta printer I developed some novel solutions. Basically, the machine is a hybrid 
 of __2D delta (x- and y-axis) and 1D cartesian (z-axis)__.
-And almost at the same time I discovered [Paulo Gonçalves Tuga](http://www.openbuilds.com/builds/reprap-tuga.390/).
+And almost at the same time I discovered [Paulo Gonçalves Tuga (OpenBuilds)](http://www.openbuilds.com/builds/reprap-tuga.390/).
 - Instead of a Scott-Russel linkage i decided to implement a parallelogram. Any fans sitting at the effector 
 hotend would induce some gyro torque when the head rotates. It might not be much, but I intuitively liked this better. 
 - Two carriages share one rail. The stepper motors and drive belts fit easily side-by-side on the same rail. It just a 
@@ -64,7 +64,9 @@ can also function as a structural part, holding the hotend to the effector arm.
 # Proof of Concept
 The idea just popped into my mind... And it might be a heritage of having played a lot with LEGO Technic as a kid.
 So I sat down and printed a POC, using some smooth rods from an scrapped inkjet printer.
-![poc001](/pics/poc001.png)![poc002](/pics/poc002.png)
+<img src="/pics/poc001.png" width="50%"></img>
+<img src="/pics/poc002.png" width="50%"></img>
+
 
 Please observe: The effector was printed lying down, while the two sliders were standing up (to allow printing the holes for the rails.) The XY plane and the Z-axis on my printer has bad calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. (it may also be due to the _hot plastic_ sagging during printing, when it is not completely solidified). 
 
@@ -72,9 +74,9 @@ The conclusion is: print all effector parts in the same orientation, and prefera
 
 ## Bending
 The effector arms should be stiff and not bend. The hotend will have some weight and gravity will do its job on the machine. 
-![bending001](/pics/bending001.png)
-![bending002](/pics/bending002.png)
-![bending003](/pics/bending003.png)
+<img src="/pics/bending001.png" width="33%"></img>
+<img src="/pics/bending002.png" width="33%"></img>
+<img src="/pics/bending003.png" width="33%"></img>
 
 ## Iterations
 The design evolved over time... A lot of PLA was spent on prototypes.
