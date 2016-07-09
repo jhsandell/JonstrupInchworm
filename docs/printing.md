@@ -21,6 +21,8 @@ holes require _bridges_ in one way or another.
 
 ## STL parts list
 
+The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Decimation". Please let me know, if there are any faults in the files.  
+
 <table>
   <tr>
     <th>Name</th>
@@ -30,7 +32,7 @@ holes require _bridges_ in one way or another.
   </tr>
   <tr>
     <td>Effector</td>
-    <td>eff001.stl</td>
+    <td><a href="/stl/eff001.stl">eff001.stl</a></td>
     <td>1</td>
     <td rowspan="3"><img src="/pics/stl_eff_sli_001.png" width="200"></img></td>
   </tr>
