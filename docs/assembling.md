@@ -16,6 +16,9 @@ And for the Jonstrup Inchworm, you will need the following parts.
 - plugs
 - M5 leadscrew, 1m, 2x (cut into several lengths. also used for supports.)
 - flexible couplers (btw. stepper and leadscrew.)
+- GT2 pulleys, 2x
+- GT2 belt, 10m
+- 2020 square aluminium tube, 20mm x 20mm x 3000mm (cut to lengths 2000,300,300) 
 - M3 hex cap-head screws, assorted lengths
 - M3 washers, standard
 - M3 washers, wide
