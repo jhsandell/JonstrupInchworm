@@ -86,42 +86,42 @@ The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Deci
   </tr>
   <tr>
     <td>Belt shim</td>
-    <td>beltshim001.stl</td>
+    <td><a href="/stl/beltshim001.stl">beltshim001.stl</a></td>
     <td>4</td>
     <td><img src="/pics/stl_belt_shim_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Cable clamp</td>
-    <td>clamp001.stl</td>
+    <td><a href="/stl/ A "> A </a>clamp001.stl</td>
     <td>4</td>
     <td><img src="/pics/stl_cableclamp_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td><B>NYLON</B> z-axis bushings</td>
-    <td>zbushings001.stl</td>
+    <td><a href="/stl/ A "> A </a>zbushings001.stl</td>
     <td>1 set</td>
     <td><img src="/pics/stl_nylon_zaxis_bushing_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Z-axis 2020 foot</td>
-    <td>foot001.stl</td>
-    <td>2</td>
+    <td><a href="/stl/foot001.stl">foot001.stl</a></td>
+    <td>2</td>f
     <td rowspan="2"><img src="/pics/stl_foot_supp_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Z-axis support foot</td>
-    <td>foot002.stl</td>
+    <td><a href="/stl/foot002.stl">foot002.stl</a></td>
     <td>4</td>
   </tr>
   <tr>
     <td>Z-axis left motor mount</td>
-    <td>foot003.stl</td>
+    <td><a href="/stl/foot003.stl">foot002.stl</a></td>
     <td>1</td>
     <td rowspan="2"><img src="/pics/stl_zaxis_motor_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td>Z-axis right motor mount</td>
-    <td>foot004.stl</td>
+    <td><a href="/stl/foot004.stl">foot004.stl</a></td>
     <td>1</td>
   </tr>
 
