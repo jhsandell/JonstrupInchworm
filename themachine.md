@@ -64,13 +64,21 @@ can also function as a structural part, holding the hotend to the effector arm.
 # Proof of Concept
 The idea just popped into my mind... And it might be a heritage of having played a lot with LEGO Technic as a kid.
 So I sat down and printed a POC, using some smooth rods from an scrapped inkjet printer.
-![poc001](/pics/poc001.png)
-![poc002](/pics/poc002.png)
+![poc001](/pics/poc001.png)![poc002](/pics/poc002.png)
 
-Please observe: The effector was printed lying down, while the two sliders were standing up (to allow printing the holes for the rails.) The XY plane and the Z-axis does not provide interchangeable calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. 
+Please observe: The effector was printed lying down, while the two sliders were standing up (to allow printing the holes for the rails.) The XY plane and the Z-axis on my printer has bad calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. (it may also be due to the _hot plastic_ sagging during printing, when it is not completely solidified). 
 
-The conclusion is: print all effector parts in the same orientation, and preferably in one pass, if your printer can have all three parts simultaneously. 
+The conclusion is: print all effector parts in the same orientation, and preferably in one pass, if your printer can have all three parts on the build plate simultaneously. 
 
+## Bending
+The effector arms should be stiff and not bend. The hotend will have some weight and gravity will do its job on the machine. 
+![bending001](/pics/bending001.png)
+![bending002](/pics/bending002.png)
+![bending003](/pics/bending003.png)
+
+## Iterations
+The design evolved over time... A lot of PLA was spent on prototypes.
+![proto001](/pics/proto001.png)
 
 
 ## Kinematics 
