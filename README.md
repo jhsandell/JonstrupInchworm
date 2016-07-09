@@ -4,6 +4,7 @@
 Here you will find all CAD and STL files, as well as description of the kinematics and illustrations.
 
 Read about [the INCHWORM machine](/themachine.md).
+You can also browse [the STL-files](/stl) or read about [printing the parts](/docs/printing.md)
 
 The machine is basically a 2D delta printer for the XY plane, and the rails (*) "go in the wrong direction".
 The z-axis is a regular cartesian rail. 
