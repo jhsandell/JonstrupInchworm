@@ -68,7 +68,7 @@ So I sat down and printed a POC, using some smooth rods from an scrapped inkjet 
 <img src="/pics/poc002.png" width="49%"></img>
 
 
-Please observe: The effector was printed lying down, while the two sliders were standing up (to allow printing the holes for the rails.) The XY plane and the Z-axis on my printer has bad calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. (it may also be due to the _hot plastic_ sagging during printing, when it is not completely solidified). 
+Please observe: The effector plate (with the large hole) was printed lying down, while the two sliders were standing up (on its right side end) to allow printing the holes for the rails. The XY plane and the Z-axis on my printer has bad calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. (it may also be due to the hot plastic _sagging during printing_, when it is not completely solidified). 
 
 The conclusion is: print all effector parts in the same orientation, and preferably in one pass, if your printer can have all three parts on the build plate simultaneously. 
 
