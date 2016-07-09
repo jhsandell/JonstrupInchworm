@@ -21,7 +21,7 @@ holes require _bridges_ in one way or another.
 
 ## STL parts list
 
-The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Decimation". Please let me know, if there are any faults in the files.  
+The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Decimation". Please let me know, if there are any faults in the files.
 
 <table>
   <tr>
@@ -124,9 +124,6 @@ The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Deci
     <td><a href="/stl/foot004.stl">foot004.stl</a></td>
     <td>1</td>
   </tr>
-
-
-
 </table>
 
 
