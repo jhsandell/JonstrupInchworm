@@ -61,16 +61,31 @@ dependent on the accelleration and stiffness of the machine.
 - The cooling fan (in the E3D hotend) should blow the heat away from all plastic parts. At the same time it 
 can also function as a structural part, holding the hotend to the effector arm. 
 
+# Proof of Concept
+The idea just popped into my mind... And it might be a heritage of having played a lot with LEGO Technic as a kid.
+So I sat down and printed a POC, using some smooth rods from an scrapped inkjet printer.
+![poc001](/pics/poc001.png)
+![poc002](/pics/poc002.png)
+
+Please observe: The effector was printed lying down, while the two sliders were standing up (to allow printing the holes for the rails.) The XY plane and the Z-axis does not provide interchangeable calibration, so the holes of the effector and the sliders are not equally spaced. The effector rotates a bit, which can be seen in the first picture, compared to the second. 
+
+The conclusion is: print all effector parts in the same orientation, and preferably in one pass, if your printer can have all three parts simultaneously. 
 
 
 
 ## Kinematics 
-<describe the Inchworm kinematics>
+> describe the Inchworm kinematics
+
 > insert a picture
+
 > describe the motion of the sliders.
+
 > describe the motion of the effector.
+
 > describe the different arm lengths and the trade-offs
+
 > describe the inverse kinematics math.
+
 > describe the forward kinematics math. (used for homing?)
 
 
