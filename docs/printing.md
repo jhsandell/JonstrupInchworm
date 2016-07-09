@@ -92,13 +92,13 @@ The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Deci
   </tr>
   <tr>
     <td>Cable clamp</td>
-    <td><a href="/stl/ A "> A </a>clamp001.stl</td>
+    <td><a href="/stl/clamp001.stl">clamp001.stl</a></td>
     <td>4</td>
     <td><img src="/pics/stl_cableclamp_001.png" width="200"></img></td>
   </tr>
   <tr>
     <td><B>NYLON</B> z-axis bushings</td>
-    <td><a href="/stl/ A "> A </a>zbushings001.stl</td>
+    <td><a href="/stl/zbushings001.stl">zbushings001.stl</a></td>
     <td>1 set</td>
     <td><img src="/pics/stl_nylon_zaxis_bushing_001.png" width="200"></img></td>
   </tr>
