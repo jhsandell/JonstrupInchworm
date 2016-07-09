@@ -80,6 +80,9 @@ The effector arms should be stiff and not bend. The hotend will have some weight
 The design evolved over time... A lot of PLA was spent on prototypes.
 ![proto001](/pics/proto001.png)
 
+This is an early assembly picture. The x-axis is scalable: buy a longer 2020 alu tube and longer GT2 belts. Same goes for the z-axis and the leadscrews. The effector arms implies a 2*L cost on the x-axis. I intend to explain this later... 
+![Assembly001](/pics/assembly_001.png)
+
 
 ## Kinematics 
 > describe the Inchworm kinematics
