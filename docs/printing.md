@@ -21,6 +21,7 @@ objects shall be printed with automatic brim.
 
 The objects can be printed without support material. Angles of overhangs are only 30 degrees of vertical. Most
 holes require _bridges_ in one way or another. Please have a look at the picture of the two x-axis motor mounts. You can also see how screw holes are built with manual support.
+
 <img src="/pics/stl_xaxis_motor_001.png" width="300">
 
 ## STL parts list
