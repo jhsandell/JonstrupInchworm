@@ -3,21 +3,25 @@ This document describes various aspects of printing all the parts for the Jonstr
 many copies you need to print.
 
 ## PLA and NYLON
-Most parts are printed in PLA. Three parts are printed in Taulman 618 nylon. Nylon is chosen either as a _lubricant-free_ 
-bushing on the z-axis, or as the _heat tolerant_ fan shroud on the E3D hotend. 
+Most parts are printed in PLA. Three parts are printed in Taulman 618 nylon. Nylon is chosen either 
+as a _lubricant-free_ bushing on the z-axis, or as the _heat tolerant_ fan shroud on the E3D hotend. 
 
 ## Alignment and Brims and No Support 
-The STL's shall be printed in the alignment shown in the pictures. This assures that _critical dimensions_ are controlled by the same axis on all parts. In other words: do not rotate objects if holes or dimensions are supposed to be identical. _It will affect the INCHWORM's final precision_. 
+The STL's shall be printed in the alignment shown in the pictures. This assures that _critical dimensions_ 
+are controlled by the same axis on all parts. In other words: do not rotate objects if holes or dimensions 
+are supposed to be identical. _It will affect the INCHWORM's final precision_. 
 
-Several large objects have _manual brims_. The brims assures adhesion to the buildplate, without having to put an automatic 
-brim all the way around the objects edges. A few large objects shall be printed with automatic brim.
+Several large objects have _manual brims_. The brims counters warping and assures adhesion to the 
+buildplate, without having to put an automatic brim all the way around the objects edges. A few large 
+objects shall be printed with automatic brim.
 
 ![without a brim](/pics/print_adh001.png) 
 
 ![with a 1-layer brim - manual or automatic](/pics/print_adh002.png)
 
 The objects can be printed without support material. Angles of overhangs are only 30 degrees of vertical. Most
-holes require _bridges_ in one way or another. 
+holes require _bridges_ in one way or another. Please have a look at the picture of the two x-axis motor mounts. You can also see how screw holes are built with manual support.
+<img src="/pics/stl_xaxis_motor_001.png" width="300">
 
 ## STL parts list
 
