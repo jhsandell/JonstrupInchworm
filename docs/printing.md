@@ -19,6 +19,9 @@ objects shall be printed with automatic brim.
 
 ![with a 1-layer brim - manual or automatic](/pics/print_adh002.png)
 
+Example of a brim that counters warping.
+!(/pics/brim.png)
+
 The objects can be printed without support material. Angles of overhangs are only 30 degrees of vertical. Most
 holes require _bridges_ in one way or another. Please have a look at the picture of the two x-axis motor mounts. You can also see how screw holes are built with manual support.
 
