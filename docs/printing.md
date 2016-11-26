@@ -123,7 +123,7 @@ The STL files have been reduced with in Meshlab with "Quadric Edge Collapse Deci
   </tr>
   <tr>
     <td>Z-axis left motor mount</td>
-    <td><a href="/stl/foot003.stl">foot002.stl</a></td>
+    <td><a href="/stl/foot003.stl">foot003.stl</a></td>
     <td>1</td>
     <td rowspan="2"><img src="/pics/stl_zaxis_motor_001.png" width="200"></img></td>
   </tr>
